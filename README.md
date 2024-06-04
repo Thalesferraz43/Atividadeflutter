@@ -1,5 +1,5 @@
 
-Atividade realizada como parte da Unidade Curricular de Usabilidade, Web, Mobile e Games.
+Atividade do professor montanha.
 
 # namer_app
 
